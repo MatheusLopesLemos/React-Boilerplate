@@ -82,14 +82,6 @@ export default [
           allowConstantExport: true,
         },
       ],
-
-      // Limite de linha
-      'max-len': [
-        'error',
-        {
-          code: 80,
-        },
-      ],
     },
   },
 ];

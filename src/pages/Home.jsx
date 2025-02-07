@@ -1,5 +1,3 @@
-import React from 'react';
-
 const Home = () => {
   return (
     <div className="flex h-screen flex-col items-center justify-center bg-red-500">
